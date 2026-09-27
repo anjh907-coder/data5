@@ -1812,7 +1812,7 @@
         2: '군집수',
         3: '평균'
       };
-      const container = btn.closest('.space-y-1.5') || btn.parentElement;
+      const container = btn.parentElement;
 
       if (selectedAnswer === correctAnswers[qNum]) {
         STATE.finalQuiz[`q${qNum}`] = true;
