@@ -1,0 +1,7 @@
+{
+  "name": "제주 오름 탐험대: K-평균(K-Means) 군집화",
+  "description": "제주도 오름 데이터와 K-Means 군집화 알고리즘을 인터랙티브하게 체험하며 배우는 초·중등 인공지능 탐구 교육 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
